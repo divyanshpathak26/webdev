@@ -1,0 +1,62 @@
+header {
+    background-color: #4CAF50;
+    padding: 20px;
+    text-align: center;
+    color: white;
+}
+
+/* Main heading style */
+h1 {
+    font-size: 36px;
+    margin: 0;
+}
+
+/* Subheading style */
+.subtitle {
+    font-size: 18px;
+    color: #f2f2f2;
+}
+
+/* Section styling */
+section {
+    padding: 20px;
+}
+
+/* About Us title style */
+h2 {
+    color: #333;
+    font-size: 28px;
+}
+
+/* Paragraph text styling */
+p {
+    color: #666;
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+/* Image styling */
+img {
+    display: block;
+    margin: 20px 0;
+    width: 200px;
+    height: auto;
+}
+
+/* Footer styling */
+footer {
+    background-color: #333;
+    color: white;
+    padding: 15px;
+    text-align: center;
+}
+
+/* Button styling */
+button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
